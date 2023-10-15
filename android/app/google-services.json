@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999405827407",
+    "project_id": "richsocialmedia-7ac0e",
+    "storage_bucket": "richsocialmedia-7ac0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999405827407:android:26040512b26a44797f013a",
+        "android_client_info": {
+          "package_name": "com.example.rich_social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrU3saWTwlqmCgd_FKCwq2zCpTV4CfrQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
