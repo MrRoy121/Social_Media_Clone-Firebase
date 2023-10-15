@@ -1,6 +1,16 @@
 # rich_social_media
 
-A new Flutter project.
+A new Flutter Done By Nilashish Roy As Task Provided by Appifylab.
+Here is the guide video link of the app..
+
+https://drive.google.com/file/d/1Q_LD_PaDcLAuq-0RAA_RetrQeIcWgt7q/view?usp=sharing
+
+
+
+
+
+https://github.com/MrRoy121/Social_Media_Clone-Firebase/assets/96123041/10f089ec-e299-4e38-b736-3e489d90e847
+
 
 ## Getting Started
 
